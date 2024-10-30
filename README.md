@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning neural networks within my master thesis: Machine learning approaches to predict Michaelis constants for enzyme-substrate complexes
 - 💞️ I’m looking for a PhD position in computational biology/genomics
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: bees and flowers communicate within a "electrostatic dance" - bees are positively charged and flowers negatively, aiding bees to to find the flowers and to enhance pollination 
 
 <!---
 laura-sndr/laura-sndr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
