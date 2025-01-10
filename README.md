@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ML frameworks (PyTorch, scikitlearn)**
 
-- 🤝 I’m looking for **a PhD position in computational biology/genomics**
+- 🤝 I’m looking for **new opportunities in machine learning biomedicine/genomics**
 
 - 📫 How to reach me **lausandner@gmail.com**
 
